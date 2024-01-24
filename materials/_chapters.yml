@@ -1,6 +1,6 @@
 book:
   chapters:
-    - part: "Developer Guidelines"
+    - part: "Welcome"
       chapters:
         - materials/01-render_guidelines.md
         - materials/02-content_guidelines.md
