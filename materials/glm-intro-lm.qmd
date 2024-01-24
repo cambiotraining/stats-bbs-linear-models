@@ -29,7 +29,7 @@ finches <- read_csv("data/finches_beaks.csv")
 
 ## Exploring data
 
-It's always a good idea to explore your data visually. Here we are focussing on the (potential) relationship between beak length (`blength`) and beak depth (`bdepth`).
+It's always a good idea to explore your data visually. Here we are focussing on the (potential) relationship between beak length (`blength`) and beak depth (`bdepth`). 
 
 Our data contains measurements from two years (`year`) and two species (`species`). If we plot beak depth against beak length, colour our data by species and look across the two time points (1975 and 2012), we get the following graph:
 
