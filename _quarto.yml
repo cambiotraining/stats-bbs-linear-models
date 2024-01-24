@@ -52,12 +52,12 @@ book:
       - icon: mastodon
         href: https://genomic.social/@BioInfoCambs
         aria-label: Bioinformatics Training Facility Mastodon
-    title: "Course Development Guidelines"
+    title: "NST Part II BBS Bioinformatics - Linear models"
   chapters:
     - part: "Welcome"
       chapters:
         - text: "Overview"
           href: index.md
-        - text: "Data & Setup"
+        - text: "Data & setup"
           href: setup.md
     
