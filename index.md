@@ -1,5 +1,5 @@
 ---
-title: "Linear models"
+title: "BBS - Linear models"
 author: "Martin van Rongen"
 number-sections: false
 ---
