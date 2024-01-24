@@ -2,5 +2,4 @@ book:
   chapters:
     - part: "Welcome"
       chapters:
-        - materials/01-render_guidelines.md
-        - materials/02-content_guidelines.md
+        - materials/glm-intro-lm.qmd

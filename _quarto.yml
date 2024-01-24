@@ -32,7 +32,7 @@ metadata-files:
 book:
   search:
     location: sidebar
-  favicon: "_extensions/cambiotraining/cambiotraining/courseformat/img/university-of-cambridge-favicon.ico"
+  favicon: "_extensions/cambiotraining/courseformat/img/university-of-cambridge-favicon.ico"
   page-navigation: true
   page-footer: 
     center: |
@@ -41,7 +41,7 @@ book:
       Bioinformatics Training Facility
   navbar:
     pinned: true
-    logo: "_extensions/cambiotraining/cambiotraining/courseformat/img/university_crest_reversed.png"
+    logo: "_extensions/cambiotraining/courseformat/img/university_crest_reversed.png"
     right:
       - icon: github
         href: https://github.com/cambiotraining/
