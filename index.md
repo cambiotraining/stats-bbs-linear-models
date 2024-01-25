@@ -1,6 +1,6 @@
 ---
 title: "BBS - Linear models"
-author: "Martin van Rongen"
+author: "Vicki Hodgson, Martin van Rongen"
 number-sections: false
 ---
 
@@ -46,7 +46,13 @@ These examples include icons with links to GitHub and Orcid.
 
 About the author(s):
 
+- **Vicki Hodgson**
+  <a href="https://orcid.org/0000-0001-5619-2118" target="_blank"><i class="fa-brands fa-orcid" style="color:#a6ce39"></i></a> 
+  <a href="https://github.com/Vicki-H" target="_blank"><i class="fa-brands fa-github" style="color:#4078c0"></i></a>  
+  _Affiliation_: Bioinformatics Training Facility, University of Cambridge  
+  _Roles_: writing - review & editing; conceptualisation; coding
 - **Martin van Rongen**
+  <a href="https://orcid.org/0000-0002-1441-367X" target="_blank"><i class="fa-brands fa-orcid" style="color:#a6ce39"></i></a> 
   <a href="https://github.com/mvanrongen" target="_blank"><i class="fa-brands fa-github" style="color:#4078c0"></i></a>  
   _Affiliation_: Bioinformatics Training Facility, University of Cambridge  
   _Roles_: writing - review & editing; conceptualisation; coding

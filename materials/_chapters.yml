@@ -1,5 +1,17 @@
 book:
   chapters:
-    - part: "Welcome"
+    - part: "Background"
       chapters:
+        - materials/research-questions.qmd
         - materials/glm-intro-lm.qmd
+        - materials/glm-intro-glm.qmd
+    - part: "Practical I: Linear regression"
+      chapters:
+        - materials/cs3_practical_linear-regression.qmd
+        - materials/cs4_practical_two-way-anova.qmd
+        - materials/cs4_practical_linear-regression-grouped-data.qmd
+    - part: "Practical II: Extending the linear model"
+      chapters:
+        - materials/cs5_practical_multiple-linear-regression.qmd
+        - materials/cs5_practical_model-comparisons.qmd
+        - materials/stats-week_glm-practical-logistic-binary.qmd
